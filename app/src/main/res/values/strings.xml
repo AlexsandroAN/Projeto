@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Primeiro Projeto</string>
+    <string name="hello_world">Bem Vindos as Video Aulas de Android com Alex</string>
+    <string name="video_aulas">VIDEO AULAS ALEX</string>
+    <string name="sigdae">SIGDAE - Sistema Integrado de Gestão do DAE</string>
+    <string name="salvar">Gravar</string>
+    <string name="action_settings">Settings</string>
+</resources>
